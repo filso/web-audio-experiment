@@ -1,0 +1,20 @@
+{
+  "name": "webAudioExperiment",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular-animate": "~1.4",
+    "angular-cookies": "~1.4",
+    "angular-touch": "~1.4",
+    "angular-sanitize": "~1.4",
+    "jquery": "~2.1.1",
+    "angular-material": "~0.8.3",
+    "angular": "~1.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4"
+  },
+  "resolutions": {
+    "jquery": "~2.1.1",
+    "angular": "~1.4"
+  }
+}
